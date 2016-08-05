@@ -32,10 +32,23 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | x | x | x |
+| 1 | Fri  2 | x | x |
+| 2 | Mon  5 | x | x |
+| 3 | Fri 9 | x | x |
+| 4 | Mon 12 | x | x |
+| 5 | Fri 16 | x | x |
+| 6 | Mon 19 | x | x |
+| 7 | Fri 23 | x | x |
 
 ### January 2017
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | x | x | x |
+| 1 | Mon  9 | x | x |
+| 2 | Fri  13 | x | x |
+| 3 | Mon 16 | x | x |
+| 4 | Fri 20 | x | x |
+| 5 | Mon 23 | x | x |
+| 6 | Fri 27 | x | x |
+| 7 | Mon 30 | x | x |
+
