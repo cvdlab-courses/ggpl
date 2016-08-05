@@ -19,7 +19,14 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | x | x | x |
+| 1 | Fri  4 | x | x |
+| 2 | Mon  7 | x | x |
+| 3 | Fri 11 | x | x |
+| 4 | Mon 14 | x | x |
+| 5 | Fri 18 | x | x |
+| 6 | Mon 21 | x | x |
+| 7 | Fri 25 | x | x |
+| 8 | Mon 28 | x | x |
 
 ### December 2016
 
