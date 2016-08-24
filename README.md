@@ -1,2 +1,2 @@
-# Geometric and Graphics Programming Laboratory
+# Web Graphics Programming Laboratory
 
