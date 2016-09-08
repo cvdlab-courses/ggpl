@@ -1,6 +1,6 @@
 # Web Graphics Programming Laboratory
 
-## Calendar
+## Schedule
 
 ### October 2016
 
