@@ -6,7 +6,7 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Mon  3 | x | x |
+| 1 | Mon  3 | Abacus, Introduction | x |
 <!-- 
 | 2 | Fri  7 | x | x |
 | 3 | Mon 10 | x | x |

@@ -1,9 +1,9 @@
 # Geometric & Graphics Programming Laboratory (IN460)
-## Syllabus 2017
+# Syllabus 2017
 ### Prof. [Alberto Paoluzzi](http://www.dia.uniroma3.it/~paoluzzi)
 
 
-### Course style and Requirements
+## Course style and Requirements
 
 It was customary in the Rinascimento send the gifted children 'apprenticed' by masters of art, to better develop their skills. This happened to Leonardo da Vinci who went "to shop" by Verrocchio and Michelangelo by Ghirlandaio.
 
@@ -59,9 +59,9 @@ no complex project. The grade will be determined by the student's GitHub reposit
 
 # Teaching materials
 
-(@) A. Paoluzzi, [Geometric Programming for Computer-Aided Design](http://onlinelibrary.wiley.com/book/10.1002/0470013885), Wiley, 2003. (free download from `uniroma3.it` domain)
-(@) [http://www.plasm.net](http://www.plasm.net), [https://github.com/plasm-language/pyplasm](https://github.com/plasm-language/pyplasm)
-(@) [https://github.com/cvdlab/lar-cc](https://github.com/cvdlab/lar-cc),
+1. A. Paoluzzi, [Geometric Programming for Computer-Aided Design](http://onlinelibrary.wiley.com/book/10.1002/0470013885), Wiley, 2003. (free download from `uniroma3.it` domain)
+2. [https://github.com/plasm-language/pyplasm](https://github.com/plasm-language/pyplasm)
+3. [https://github.com/cvdlab/lar-cc](https://github.com/cvdlab/lar-cc),
 
 
 
