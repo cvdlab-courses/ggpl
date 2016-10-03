@@ -6,7 +6,7 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Mon  3 | Abacus, Introduction | x |
+| 1 | Mon  3 | [Abacus](README.md), [Course introduction](lessons/2016-10-03) | x |
 <!-- 
 | 2 | Fri  7 | x | x |
 | 3 | Mon 10 | x | x |
