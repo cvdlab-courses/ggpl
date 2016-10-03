@@ -20,11 +20,11 @@ no complex project. The grade will be determined by the student's GitHub reposit
 + Room N8, Via della Vasca Navale, 109
 + Room N21, Via della Vasca Navale, 79/81
 
-	--------------      -------------- 
-	 Monday (N8)          Friday (N21)   
-	--------------      --------------
-	13:00--15:00          9:00--13:00   
-	--------------      --------------
+	|--------------|--------------|
+	| Monday (N8)  | Friday (N21) |  
+	|--------------|--------------|
+	|13:00--15:00  |  9:00--13:00 | 
+	|--------------|--------------|
 
 
 
@@ -59,9 +59,10 @@ no complex project. The grade will be determined by the student's GitHub reposit
 
 # Teaching materials
 
-1. A. Paoluzzi, [Geometric Programming for Computer-Aided Design](http://onlinelibrary.wiley.com/book/10.1002/0470013885), Wiley, 2003. (free download from `uniroma3.it` domain)
-2. [https://github.com/plasm-language/pyplasm](https://github.com/plasm-language/pyplasm)
-3. [https://github.com/cvdlab/lar-cc](https://github.com/cvdlab/lar-cc),
+1. [IN460 - Geometric & Graphics Programming Lab](https://github.com/cvdlab-courses/ggpl)
+2. A. Paoluzzi, [Geometric Programming for Computer-Aided Design](http://onlinelibrary.wiley.com/book/10.1002/0470013885), Wiley, 2003. (free download from `uniroma3.it` domain)
+3. [https://github.com/plasm-language/pyplasm](https://github.com/plasm-language/pyplasm)
+4. [https://github.com/cvdlab/lar-cc](https://github.com/cvdlab/lar-cc),
 
 
 
