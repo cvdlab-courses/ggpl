@@ -6,9 +6,9 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Mon  3 | [Abacus](README.md), [Course introduction](lessons/2016-10-03) | x |
+| 1 | Mon  3 | [Abacus](README.md), [Course introduction](lessons/2016-10-03) | lecture |
+| 2 | Fri  7 | [Intro to python, assignements](lessons/2016-10-07) | workshop |
 <!-- 
-| 2 | Fri  7 | x | x |
 | 3 | Mon 10 | x | x |
 | 4 | Fri 14 | x | x |
 | 5 | Mon 17 | x | x |
