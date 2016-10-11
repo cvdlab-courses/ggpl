@@ -20,7 +20,7 @@ no complex project. The grade will be determined by the student's GitHub reposit
 + Room N8, Via della Vasca Navale, 109
 + Room N21, Via della Vasca Navale, 79/81
 
-	| Monday (N8)  | Friday (N21) |  
+	| Monday (N21)  | Friday (N8) |  
 	|--------------|--------------|
 	| 13:00--15:00 |  9:00--13:00 | 
 
