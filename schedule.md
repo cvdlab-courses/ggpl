@@ -9,8 +9,8 @@
 | 1 | Mon  3 | [Abacus](README.md), [Course introduction](lessons/2016-10-03) | lecture |
 | 2 | Fri  7 | [Intro to python, assignements](lessons/2016-10-07) | workshop |
 | 3 | Mon 10 | [Algebra remainders: linear and affine spaces](lessons/2016-10-10) | lecture |
+| 4 | Fri 14 | [Workshop N.1: Building frame](lessons/2016-10-1) | workshop |
 <!-- 
-| 4 | Fri 14 | x | x |
 | 5 | Mon 17 | x | x |
 | 6 | Fri 21 | x | x |
 | 7 | Mon 24 | x | x |
