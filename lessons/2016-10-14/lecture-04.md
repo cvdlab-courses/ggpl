@@ -1,120 +1,99 @@
-% Geometric \& Graphics Programming Lab: Lecture 3
+% Geometric \& Graphics Programming Lab: Lecture 4
 % Alberto Paoluzzi
 % \today
 
 \tableofcontents
 
-# Python tutorials
+# Workshop N.1
 
 
-## Python tutorial links
-
-1.	[_Learn X in Y minutes_](https://learnxinyminutes.com) where `X = ` [**Python**](https://learnxinyminutes.com/docs/python/)
-2.	[Rudimenti-di-python](http://docplayer.it/17174725-Rudimenti-di-python-senza-rodimenti-di-python.html)
-3.	[Intro to python](furiani-1.pdf)
+##  Simple parametric building structure in reinforced concrete
 
 
-## 5. Classes
+*	Space frame of reinforced concrete
+*	including beams, pillars and footings
+*	using few `pyplasm` primitive operations
+*	parameterized by:
+	+	`(bx,bz)`  (given dimensions of beam section) 
+	+	`(px,py)`	(given dimensions of pillar section)
+	+	`[dy1,dy2,...]`   (distances between axes of the pillars)
+	+	`[hz1,hz2,...]`	(interstory heights)
 
-\framesubtitle{\href{https://learnxinyminutes.com/docs/python/}{Learn Python in Y minutes}} 
 
-\scriptsize
 
-```python
-# We subclass from object to get a class.
-class Human(object):
+## Sketch of object shape
 
-    # A class attribute. It is shared by all instances of this class
-    species = "H. sapiens"
 
-    # Basic initializer, this is called when this class is instantiated.
-    # Note that the double leading and trailing underscores denote objects
-    # or attributes that are used by python but that live in user-controlled
-    # namespaces. You should not invent such names on your own.
-    def __init__(self, name):
-        # Assign the argument to the instance's name attribute
-        self.name = name
+![](fig_01.pdf "test")
 
-        # Initialize property
-        self.age = 0
-```
 
-## aaaa
-\scriptsize
+## Hint: solution 1
+
+Use `pyplasm` primitives `QUOTE` (to produce _1D cell complexes_) and `PROD` for _Cartesian product_ of cell complexes (**HPC** values)
 
 ```python
-
+x = [.1,-.05,.001,-.05]
+a = QUOTE(x*5)
+aa = PROD([a,a])
+aaa = PROD([aa,a])
+VIEW(aaa)
 ```
 
 
-## aaaa
-\scriptsize
+## Hint: solution 2
+
+Use `pyplasm` primitives `CUBOID` (to produce 3D cuboidal cells), `T()()` for translations, and `STRUCT` (for assembly of cell complexes) to create _structures_ of **HPC** values
 
 ```python
-
+b = CUBOID([1,2,3])
+d = STRUCT([b,T(1)(4.0),b])
+VIEW(d)
 ```
 
 
-## aaaa
-\scriptsize
+## Style specs
 
-```python
+*	produce a _single_ Python function, with real or integer or list parameters
+*	output: a single *HPC* value
+*	use **meaningfull** _identificators_ (variables and parameters)
+*	use _camelCase_ ids
+*	add **Python `docstrings`** (google for it)
+*	produce a single Python file, named *workshop_01.py*
+*	file path:  _`your_repo/2016-10-14/workshop_01.py`_
 
+
+## Minimal git/github instructions  (1/2)
+
+create your local repository
+
+```
+$ mkdir development
+$ cd development
+$ git clone https://github.com/your-account/ggpl
+$ cd ggpl
+$ mkdir 2016-10-14
+$ cd 2016-10-14
+$ touch workshop_01.py
 ```
 
 
-## aaaa
-\scriptsize
+## Minimal git/github instructions  (2/2)
 
-```python
-
-```
-
-
-## aaaa
-\scriptsize
-
-```python
+commit your work
 
 ```
-
-
-## aaaa
-\scriptsize
-
-```python
-
+$ git add -A .
+$ git commit -m "add a short note to commit"
+$ git push origin master
 ```
 
-
-## aaaa
-\scriptsize
-
-```python
-
-```
+look to your GitHub repository and check
 
 
-## 6. Modules
+## Assignment for next Friday
 
-\framesubtitle{\href{https://learnxinyminutes.com/docs/python/}{from Learn Python in Y minutes}} 
+1.	Install [_Jupyter_](http://jupyter.readthedocs.io/en/latest/)
 
-\scriptsize
+2. 	see tutorial
 
-```python
-
-```
-
-
-
-## 7. Advanced
-
-\framesubtitle{\href{https://learnxinyminutes.com/docs/python/}{from Learn Python in Y minutes}} 
-
-\scriptsize
-
-```python
-
-```
-
-
+3.	play with it
