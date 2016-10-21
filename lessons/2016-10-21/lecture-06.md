@@ -9,7 +9,7 @@
 ## Parametric (spatial) building frame in reinforced concrete
 
 
-![](images/sketch.pdf "sketch")
+![Images from Google](images/sketch.pdf "sketch")
 
 
 ##  Look at some examples
@@ -41,6 +41,11 @@
 	-	the actual parameters of a planar concrete frame, according to the scheme of formal parameters required by  the _ggpl_ function developed in [_workshop n.1_](../2016-10/14/lecture-04.md) by the student itself.
 
 
+## 
+
+![Frames](images/frames.pdf "frames")
+
+
 ## Hints to solution
 
 
@@ -67,7 +72,7 @@ incident on it.
 *	use _camelCase_ ids
 *	add **Python `docstrings`** (google for it)
 *	produce a **single** notebook file, named *workshop_02.ipynb*
-*	file path:  _`your_repo/2016-10-14/workshop_02.py`_
+*	file path:  _`your_repo/2016-10-21/workshop_02.py`_
 
 
 
