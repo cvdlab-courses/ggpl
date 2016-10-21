@@ -11,8 +11,8 @@
 | 3 | Mon 10 | [Algebra remainders: linear and affine spaces](lessons/2016-10-10) | lecture |
 | 4 | Fri 14 | [Workshop N.1: Building frame](lessons/2016-10-14) | workshop |
 | 5 | Mon 17 | [Introduction to meshes and `Larlib`](lessons/2016-10-17) | lecture |
+| 6 | Fri 21 | [Workshop N.1: Building frame](lessons/2016-10-21) | workshop |
 <!-- 
-| 6 | Fri 21 | x | x |
 | 7 | Mon 24 | x | x |
 | 8 | Fri 28 | x | x |
 
