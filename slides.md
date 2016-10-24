@@ -12,7 +12,7 @@
 | 4 | Fri 14 | [Workshop N.1: Planar building frame](lessons/2016-10-14) | workshop |
 | 5 | Mon 17 | [Introduction to meshes and `Larlib`](lessons/2016-10-17) | lecture |
 | 6 | Fri 21 | [Workshop N.2: Spatial building frame](lessons/2016-10-21) | workshop |
-| 7 | Mon 24 | [Affine transformations](lessons/2016-10-24) | lecture |
+| 7 | Mon 24 | [Affine transformations](lessons/2016-10-24/lecture-07.pdf) | lecture |
 <!-- 
 | 8 | Fri 28 | x | x |
 
