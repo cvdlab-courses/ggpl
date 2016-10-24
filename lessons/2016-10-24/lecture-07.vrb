@@ -1,0 +1,24 @@
+\frametitle{Representation of tensors}
+\framesubtitle{example}
+
+\begin{python}
+from pyplasm import *
+
+wall = MKPOL([  [[0,0],[4,0],[4,4],[2,6],[0,4]],
+				[[1,2,3,4,5]],None  ])
+Q = MAT([[1,0,0],[0,1,0.5],[0,0,1]])
+
+VIEW(Q(wall))
+\end{python}
+
+\vfill
+
+Remember that:
+
+\begin{itemize}
+\item
+we use homogeneous coordinates (2D matrices are $3\times 3$);
+\item
+in PlaSM the homogeneous coordinate is the first
+\end{itemize}
+
