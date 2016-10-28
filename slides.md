@@ -13,8 +13,8 @@
 | 5 | Mon 17 | [Introduction to meshes and `Larlib`](lessons/2016-10-17) | lecture |
 | 6 | Fri 21 | [Workshop N.2: Spatial building frame](lessons/2016-10-21) | workshop |
 | 7 | Mon 24 | [2D affine transformations](lessons/2016-10-24/lecture-07.pdf) | lecture |
+| 8 | Fri 28 | [Workshop N.2: Concrete stair parametric model](lessons/2016-10-28) | workshop |
 <!-- 
-| 8 | Fri 28 | x | x |
 
 ### November 2016
 
