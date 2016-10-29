@@ -44,6 +44,47 @@
 ![_stair nomenclature_](stair_nomenclature.pdf "stair nomenclature")  
 
 
+##  Step dimensioning (Blondel formula) (1/2)
+
+![[_Step dimensioning (Blondel formula)_](https://www.google.it/search?q=blondel+formula&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjZn6Sf_v7PAhUoKsAKHbWtAMgQ7AkILQ&biw=1357&bih=955&dpr=2#tbm=isch&q=formula+blondel)](blondel.pdf "Step dimensioning (Blondel formula)")  
+
+
+##  Step dimensioning (Blondel formula) (2/2)
+
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\begin{figure}[htbp] %  figure placement: here, top, bottom, or page
+   \centering
+   \includegraphics[width=0.8\textwidth]{formula.pdf} 
+   \caption{Relationship of similarity between stair rise (\emph{dz}) and run (\emph{dy}), and step (riser height (\emph{a}), tread depth (\emph{p})) }
+   \label{fig:example}
+\end{figure}
+\end{column}
+\begin{column}{0.5\textwidth}
+
+\begin{enumerate}
+\item Nicolas-François Blondel in the last volume of his ``Cours d'architecture'' (1675–1683)
+\begin{align}
+2a + p &= 63\\
+a/p &= dz/dy
+\end{align}
+
+\item number $n$ of steps:
+\begin{align}
+n = \mbox{round}(dz/a)
+\end{align}
+
+\item step dimensions:
+\begin{align}
+riser = dz/n \\
+tread = dy/n
+\end{align}
+\end{enumerate}
+
+\end{column}
+\end{columns}
+
+
 ## Requirements
 
 *	Write a single notebook,  named *`workshop_03.ipynb`* 
@@ -100,7 +141,7 @@
 
 *	produce a **single** notebook file, named *workshop_03.ipynb*
 
-*	file path:  _`your_repo/2016-10-21/workshop_03.py`_
+*	file path:  _`your_repo/2016-10-28/workshop_03.ipynb`_
 
 
 
