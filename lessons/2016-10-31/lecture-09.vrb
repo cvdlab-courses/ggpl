@@ -1,0 +1,12 @@
+\frametitle{Examples}
+\framesubtitle{2D/3D Clock model}
+
+\vfill\centering
+
+   \includegraphics[width=2in]{figs/newclock}
+
+\begin{python}
+VIEW(clock3D(5,20))
+\end{python}
+
+
