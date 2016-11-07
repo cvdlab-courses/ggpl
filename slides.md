@@ -14,15 +14,15 @@
 | 6 | Fri 21 | [Workshop N.2: Spatial building frame](lessons/2016-10-21) | workshop |
 | 7 | Mon 24 | [2D affine transformations](lessons/2016-10-24/lecture-07.pdf) | lecture |
 | 8 | Fri 28 | [Workshop N.3: Concrete stair parametric model](lessons/2016-10-28) | workshop |
-| 9 | Mon  31 | [3D affine transformations](lessons/2016-10-31/lecture-09.pdf) | lecture |
+| 9 | Mon 31 | [3D affine transformations](lessons/2016-10-31/lecture-09.pdf) | lecture |
 
 ### November 2016
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 9 | Fri  4 | [Workshop N.4: Parametric house roofs](lessons/2016-11-04/lecture-10.pdf) | workshop |
+| 9 | Fri 4 | [Workshop N.4: Parametric house roofs](lessons/2016-11-04/lecture-10.pdf) | workshop |
+| 2 | Mon 7 | [Representation shemes: cell complexes](lessons/2016-11-07/lecture-11.pdf) | lecture |
 <!-- 
-| 2 | Mon  7 | x | x |
 | 3 | Fri 11 | x | x |
 | 4 | Mon 14 | x | x |
 | 5 | Fri 18 | x | x |
