@@ -1,4 +1,4 @@
-% Computational Graphics: Lecture 7
+% Geometric \& Graphics Programming Lab: Lecture 11
 % Alberto Paoluzzi
 % \today
 
