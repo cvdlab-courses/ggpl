@@ -23,9 +23,9 @@
 | 10 | Fri 4 | [Workshop N.4: Parametric house roofs](lessons/2016-11-04/lecture-10.pdf) | workshop |
 | 11 | Mon 7 | [Representation shemes: cell complexes](lessons/2016-11-07/lecture-11.pdf) | lecture |
 | 12 | Fri 11 | [Workshop N.5: Modeling the furnishings of high schools](lessons/2016-11-11/lecture-12.pdf) | workshop |
+| 13 | Mon 14 |  | no lecture |
+| 14 | Fri 18 | [Workshop N.6: LAR and `larlib`](lessons/2016-11-18/lecture-14.pdf) | lecture + workshop |
 <!-- 
-| 4 | Mon 14 | x | x |
-| 5 | Fri 18 | x | x |
 | 6 | Mon 21 | x | x |
 | 7 | Fri 25 | x | x |
 | 8 | Mon 28 | x | x |
