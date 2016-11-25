@@ -26,8 +26,8 @@
 | 13 | Mon 14 |  | no lecture |
 | 14 | Fri 18 | [Workshop N.6: LAR and `larlib`](lessons/2016-11-18/lecture-14.pdf) | lecture + workshop |
 | 15 | Mon 21 | [Representations: mixing HPC and LAR schemes](lessons/2016-11-21/lecture-15.pdf) | lecture |
+| 16 | Fri 25 | [Workshop N.7: Parametric doors \& windows](lessons/2016-11-25/lecture-16.pdf) | workshop |
 <!-- 
-| 7 | Fri 25 | x | x |
 | 8 | Mon 28 | x | x |
 
 ### December 2016
