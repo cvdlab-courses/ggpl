@@ -42,7 +42,7 @@ and BRC (Binary Row Compressed)
 
 *	We can **identify each cell** with its **set of vertices**. 
 
-*	Thus, to define $S$, we *start from the vertex set* $S_0$, and *specify the vertex subsets* which correspond to the **cells**, and the *rank* of each cell. 
+*	Thus, to define $S$, we *start from the vertex set* $V$, and *specify the vertex subsets* which correspond to the **cells**, and the *rank* of each cell. 
 
 *	The *partial order* is induced by *set inclusion*.
 

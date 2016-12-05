@@ -34,8 +34,8 @@
 | # | date | arguments | category |
 |--:|------|-----------|----------|
 | 18 | Fri  2 | [Workshop N.8: Solid models from .SVG drawings](lessons/2016-12-02/lecture-18.pdf) | workshop |
+| 2 | Mon  5 | [Polynomial parametric curves](lessons/2016-12-05/lecture-19.pdf) | lecture |
 <!-- 
-| 2 | Mon  5 | x | x |
 | 3 | Fri 9 | x | x |
 | 4 | Mon 12 | x | x |
 | 5 | Fri 16 | x | x |
