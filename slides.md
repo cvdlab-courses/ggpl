@@ -34,12 +34,12 @@
 | # | date | arguments | category |
 |--:|------|-----------|----------|
 | 18 | Fri  2 | [Workshop N.8: Solid models from .SVG drawings](lessons/2016-12-02/lecture-18.pdf) | workshop |
-| 2 | Mon  5 | [Polynomial parametric curves](lessons/2016-12-05/lecture-19.pdf) | lecture |
+| 19 | Mon  5 | [Polynomial parametric curves](lessons/2016-12-05/lecture-19.pdf) | lecture |
+| 20 | Fri 9 | no lecture | 
+| 21 | Mon 12 | [Hermite and Beziér cubic curves](lessons/2016-12-12/lecture-21.pdf) | lecture |
+| 22 | Fri 16 | [Workshop N.9: Geometric design of roofs](lessons/2016-12-16/) | workshop |
+| 23 | Mon 19 | [parametric polynomial surfaces](lessons/2016-12-19/ch12.pdf) | lecture |
 <!-- 
-| 3 | Fri 9 | x | x |
-| 4 | Mon 12 | x | x |
-| 5 | Fri 16 | x | x |
-| 6 | Mon 19 | x | x |
 | 7 | Fri 23 | x | x |
 
 ### January 2017
