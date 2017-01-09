@@ -39,14 +39,13 @@
 | 21 | Mon 12 | [Hermite and Beziér cubic curves](lessons/2016-12-12/lecture-21.pdf) | lecture |
 | 22 | Fri 16 | [Workshop N.9: Geometric design of roofs](lessons/2016-12-16/) | workshop |
 | 23 | Mon 19 | [parametric polynomial surfaces](lessons/2016-12-19/ch12.pdf) | lecture |
-<!-- 
-| 7 | Fri 23 | x | x |
 
 ### January 2017
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Mon  9 | x | x |
+| 1 | Mon  9 | [Viewing & Rendering: View models](lessons/2017-01-09/ch10.pdf) | lecture |
+<!-- 
 | 2 | Fri  13 | x | x |
 | 3 | Mon 16 | x | x |
 | 4 | Fri 20 | x | x |
