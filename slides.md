@@ -44,9 +44,9 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Mon  9 | [Viewing & Rendering: View models](lessons/2017-01-09/ch10.pdf) | lecture |
+| 24 | Mon  9 | [Viewing & Rendering: View models](lessons/2017-01-09/ch10.pdf) | lecture |
+| 25 | Fri  13 | [Workshop N.10: Housing: coherent assembly of plugins](lessons/2017-01-13/lecture-25.pdf) | workshop |
 <!-- 
-| 2 | Fri  13 | x | x |
 | 3 | Mon 16 | x | x |
 | 4 | Fri 20 | x | x |
 | 5 | Mon 23 | x | x |
