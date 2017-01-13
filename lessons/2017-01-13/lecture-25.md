@@ -8,7 +8,7 @@
 
 ## Housing: coherent assembly of plugins
 
-Goal: Develop a **parametric model** of a _multistory house_ in Python, by coherently assembling several **plugings** previously designed and developed.
+Goal: Develop a **parametric model** of a _multistorey house_ in Python, by coherently assembling several **plugings** previously designed and developed.
 
 ![[*Images from Google*](https://www.google.it/search?q=multi+story+house+designs&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjn56Doqb7RAhVhC8AKHYLdAZgQ_AUICCgB&biw=1440&bih=812)](multistoryHousing.pdf "drawings.pdf")  
 
@@ -18,7 +18,7 @@ Goal: Develop a **parametric model** of a _multistory house_ in Python, by coher
 *	file input (filetype `.lines`) of 2D wire-frame design  (either single- or multi-storey)
 
 
-The **MultistoryHouse()** plugin must include (at least) parametric pluging for:
+The **MultistoreyHouse()** plugin must include (at least) parametric pluging for:
 
 
 *	internal/external staircase
