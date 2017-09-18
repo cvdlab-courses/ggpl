@@ -1,7 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {2}{3D Affine transformations}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{Translation and scaling}{4}{0}{1}
-\beamer@subsectionintoc {2}{2}{Rotation}{8}{0}{1}
-\beamer@subsectionintoc {2}{3}{Shearing}{19}{0}{1}
-\beamer@sectionintoc {3}{Composite transformations}{22}{0}{2}
-\beamer@sectionintoc {4}{Properties of affine tensors}{26}{0}{3}
