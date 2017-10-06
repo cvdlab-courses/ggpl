@@ -3,9 +3,9 @@
 ### Prof. [Alberto Paoluzzi](http://www.dia.uniroma3.it/~paoluzzi)
 
 
-## Course style and Requirements
+### Course style and Requirements
 
-It was customary in the Rinascimento send the gifted children 'apprenticed' by masters of art, to better develop their skills. This happened to Leonardo da Vinci who went "to shop" by Verrocchio and Michelangelo by Ghirlandaio.
+It was customary in the Rinascimento to send the gifted children 'apprenticed' by masters of art, to better develop their skills. This happened to Leonardo da Vinci who went "to shop" by Verrocchio and Michelangelo by Ghirlandaio.
 
 Programming Laboratory as Rinascimental Workshop :-)
 
@@ -13,32 +13,35 @@ Every week a very small programming task is given at the start of the Friday hou
 Students will develop their solution in class, under supervision and advice of the teacher. The solutions will be loaded on Github at the end of class. No final exams;
 no complex project. The grade will be determined by the student's GitHub repository.
   
+<!-- 
+## Exam Evaluation (Feb 2017)
+
+*	[_works_](EXAMS/_works.html)
+*	[_grades_](EXAMS/_table.html)
+
+Exam marks recording on Friday 24, 9:00-12:00 on teacher room.
+ -->
 
 ## Scheduling
 
-+ Lectures From Monday, Oct 3, 2016 to  Friday, Jan 27, 2017 
-+ Room N8, Via della Vasca Navale, 109
-+ Room N21, Via della Vasca Navale, 79/81
-
-	| Monday (N21)  | Friday (N8) |  
-	|--------------|--------------|
-	| 13:00--15:00 |  9:00--13:00 | 
-
++ Lectures From Monday, Oct 2, 2017 to  Friday, Jan 19, 2018 
++ Monday: Room DS3A - 13:00--17:00 (Engineering School), Via della Vasca Navale, 79
++ Friday: Room N8  - 13:00--15:00  (Engineering School), Via della Vasca Navale, 79
 
 
 ## Course program
 
 
-### Introduction to Python programming 
+### Introduction to Python and/or Julia programming 
 
-1. Why Python?  Getting started
-2. Python syntax by examples
+1. Python or Julia?  Getting started
+2. Language syntax by examples
 
 ### Polyhedral geometry
 
 3. Linear and affine spaces
-4. convex sets, affine and convex coordinates
-5. Cellular complexes, simplicial and cuboidal complexes
+4. Convex sets, affine and convex coordinates
+5. Simplicial, cuboidal and cellular complexes
 
 ### Basic computer graphics
 
@@ -54,13 +57,12 @@ no complex project. The grade will be determined by the student's GitHub reposit
 12. Solid modeling. Motion modeling
 
 
+# Teaching materials
 
-## Teaching materials
-
-1. [IN460 - Geometric & Graphics Programming Lab](https://github.com/cvdlab-courses/ggpl)
-2. A. Paoluzzi, [Geometric Programming for Computer-Aided Design](http://onlinelibrary.wiley.com/book/10.1002/0470013885), Wiley, 2003. (free download from `uniroma3.it` domain)
-3. [https://github.com/plasm-language/pyplasm](https://github.com/plasm-language/pyplasm)
-4. [https://github.com/cvdlab/lar-cc](https://github.com/cvdlab/lar-cc),
+#. [IN460 - Geometric & Graphics Programming Lab](https://github.com/cvdlab-courses/ggpl)
+#. A. Paoluzzi, [Geometric Programming for Computer-Aided Design](http://onlinelibrary.wiley.com/book/10.1002/0470013885), Wiley, 2003. (free download from `uniroma3.it` domain)
+#. [https://github.com/plasm-language/pyplasm](https://github.com/plasm-language/pyplasm)
+#. [https://github.com/cvdlab/lar-cc](https://github.com/cvdlab/lar-cc),
 
 ## Schedule
 
