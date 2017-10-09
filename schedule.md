@@ -8,6 +8,7 @@
 |--:|------|-----------|----------|
 | 1 | Mon  02 | [Course Abacus](lessons/2017-10-02/) | Programming |
 | 2 | Fri  06 | [Introduction to Python 1](lessons/2017-10-06/) | Programming |
+| 2 | Mon  09 | [Introduction to Python 2](lessons/2017-10-06/) | Programming |
 <!-- 
 | 2 | Wed  8 | [Overview of parallel computing](lessons/2017-03-08/lecture-02.pdf) | Theory |
 | 3 | Mon  13 | [Git & GitHub, Julia packages](lessons/2017-03-13/lecture-03.pdf) | Programming |
