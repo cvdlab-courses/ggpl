@@ -9,7 +9,8 @@
 | 1 | Mon  02 | [Course Abacus](lessons/2017-10-02/) | Programming |
 | 2 | Fri  06 | [Introduction to Python 1](lessons/2017-10-06/) | Programming |
 | 3 | Mon  09 | [Introduction to Python 2](lessons/2017-10-06/) | Programming |
-| 4 | Fri  09 | [Vector and affine spaces](lessons/2017-10-13/) | Theory |
+| 4 | Fri  13 | [Vector and affine spaces](lessons/2017-10-13/) | Theory |
+| 5 | Mon  16 | [2D transformations](lessons/2017-10-16/) | Theory + Programming |
 <!-- 
 | 2 | Wed  8 | [Overview of parallel computing](lessons/2017-03-08/lecture-02.pdf) | Theory |
 | 3 | Mon  13 | [Git & GitHub, Julia packages](lessons/2017-03-13/lecture-03.pdf) | Programming |
