@@ -193,6 +193,7 @@ $ touch workshop_01.ipynb
 commit your work
 
 ```
+$ cd ..  # move to ggpl/
 $ git add -A .
 $ git commit -m "add a short note to commit"
 $ git push origin master
