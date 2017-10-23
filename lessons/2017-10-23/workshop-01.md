@@ -16,7 +16,7 @@
 \columnsbegin
 \column{.5\textwidth}
 
-_PLaSM classic_
+_PLaSM classic (FL)_
 
 *	List 
 
@@ -96,6 +96,8 @@ END
 
 ```{.python}
 def name(arg):
+	local1 = expr1
+	local2 = expr2
 	def name1(a1,a2):
 		return expr
 	return name1
