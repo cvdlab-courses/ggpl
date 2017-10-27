@@ -1,4 +1,4 @@
-# Geometric & Graphics Programming Laboratori (IN460)
+# Geometric & Graphics Programming Laboratory (IN460)
 
 ## Schedule
 
@@ -13,6 +13,7 @@
 | 5 | Mon  16 | [Literate progrmng & notebooks](lessons/2017-10-16/) | Theory + Programming |
 | 6 | Fri  20 | [2D Affine transformations](lessons/2017-10-20/) | Theory |
 | 7 | Mon  23 | [3D Affine transformations](lessons/2017-10-23/) | Theory + Programming |
+| 8 | Fri  27 | [Solid Modeling](lessons/2017-10-27/) | Theory |
 <!-- 
 | 2 | Wed  8 | [Overview of parallel computing](lessons/2017-03-08/lecture-02.pdf) | Theory |
 | 3 | Mon  13 | [Git & GitHub, Julia packages](lessons/2017-03-13/lecture-03.pdf) | Programming |
