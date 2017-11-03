@@ -15,15 +15,14 @@
 | 7 | Mon  23 | [3D Affine transformations](lessons/2017-10-23/) | Theory + Programming |
 | 8 | Fri  27 | [Solid Modeling](lessons/2017-10-27/) | Theory |
 | 9 | Mon  30 | [Mapping & Structures](lessons/2017-10-30/) | Theory + Programming |
-<!-- 
 
-### April 2017
+### November 2018
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 9 | Mon 3 | [Make parallel:domain integration](lessons/2017-04-03/) | Programming |
-| 10 | Wed 5 | [Code vectorization](lessons/2017-04-05/) | Theory |
+| 10 | Fri 3 | [aaa](lessons/2017-11-03/) | Theory |
 <!-- 
+| 10 | Wed 5 | [Code vectorization](lessons/2017-04-05/) | Theory |
 | 3 | Fri 11 | x | x |
 | 4 | Mon 14 | x | x |
 | 5 | Fri 18 | x | x |
