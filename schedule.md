@@ -22,7 +22,7 @@
 |--:|------|-----------|----------|
 | 10 | Fri 3 | [Simplicial complexes](lessons/2017-11-03/) | Theory |
 | 11 | Mon 3 | [Cellular complexes](lessons/2017-11-06/) | Theory + Programming |
-| 12 | Fri 10 | [Recap](lessons/2017-11-10/) | Theory |
+| 12 | Fri 10 | [Recap, mapping](lessons/2017-11-10/) | Theory |
 <!-- 
 | 10 | Wed 5 | [Code vectorization](lessons/2017-04-05/) | Theory |
 | 3 | Fri 11 | x | x |
