@@ -25,7 +25,15 @@
 | 12 | Fri 10 | [Recap, mapping](lessons/2017-11-10/) | Theory |
 | 13 | Mon 13 | [Parametric design](lessons/2017-11-13/) | Theory + Programming |
 | 14 | Fri 17 | [Parametric curves 1](lessons/2017-11-17/) | Theory |
-| 14 | Fri 17 | [Parametric curves 2](lessons/2017-11-20/) | Theory + Programming |
+| 15 | Mon 20 | [No lecture](lessons/2017-11-20/) | Theory + Programming |
+| 16 | Fri 27 | [Parametric curves 2](lessons/2017-11-17/) | Theory |
+
+### December 2018
+
+| # | date | arguments | category |
+|--:|------|-----------|----------|
+| 17 | Mon 1 | [MedTrain3DModSim + projections 1](lessons/2017-12-01/) | Theory |
+| 18 | Mon 20 | [S. Spirito Rotondo Basilique](lessons/2017-12-04/) | Programming |
 <!-- 
 | 10 | Wed 5 | [Code vectorization](lessons/2017-04-05/) | Theory |
 | 3 | Fri 11 | x | x |
